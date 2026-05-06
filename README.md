@@ -1,6 +1,6 @@
 # IA générative créative
 
-Ce GitHub a pour but de présenter mon expérience vis-à-vis des modèles génératifs à usage créatif. Plusieurs cas d’usage seront présentés ainsi que les méthodes employées dans des projets commerciaux concrets.
+Ce GitHub a pour but de présenter mon expérience vis-à-vis des modèles génératifs à usage créatif. Plusieurs cas d’usage seront présentés ainsi que les méthodes employées dans des projets commerciaux.
 
 ---
 

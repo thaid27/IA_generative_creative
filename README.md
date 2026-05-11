@@ -93,7 +93,7 @@ L’IA générative peut aussi générer des vidéos à partir de prompts, d’i
 <h4 align="center">Exemples de plans générés par IA</h4>
 <br>
 
-- Contenu original (IA influenceur)
+- Contenu original (influenceur IA)
 
 <p align="center">
   <img width="537" height="417" alt="storyboard" src="https://github.com/user-attachments/assets/6b03693d-5500-4c3e-9e0e-13d341eb9887" />

@@ -167,10 +167,12 @@ L’IA peut aussi permettre d’offrir de nouvelles expériences inédites.
 </p>
 <h4 align="center">Modèle 3D généré</h4>
 
-**Technologies utilisées** : Hunyuan3D de Tencent
+**Technologies utilisées** : Hunyuan3D
 
 - Génération de mondes 3D navigables à partir d'images
 
 <p align="center">
   <img width="598" height="386" alt="world" src="https://github.com/user-attachments/assets/6acd9f3b-956c-4a17-98f5-61f3ee6b7dbe" />
 </p>
+
+**Technologies utilisées** : HunyuanWorld, Marble
